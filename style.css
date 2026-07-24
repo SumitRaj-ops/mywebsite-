@@ -216,3 +216,35 @@ nav a{
     background:#ffffff;
     transform:scale(1.05);
 }
+.hero-content{
+    background:rgba(0,0,0,.45);
+    padding:40px;
+    border-radius:20px;
+    display:inline-block;
+}
+
+.btn{
+    transition:.3s;
+}
+
+.btn:hover{
+    transform:scale(1.08);
+}
+
+.card{
+    transition:.3s;
+}
+
+.card:hover{
+    transform:translateY(-10px);
+    box-shadow:0 15px 35px rgba(0,0,0,.25);
+}
+
+.search input:focus{
+    outline:none;
+    border:2px solid gold;
+}
+
+nav a:hover{
+    color:gold;
+}
