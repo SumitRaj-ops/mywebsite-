@@ -248,3 +248,30 @@ nav a{
 nav a:hover{
     color:gold;
 }
+.services{
+    padding:80px 8%;
+    text-align:center;
+}
+
+.stats{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    gap:30px;
+    padding:80px 8%;
+    background:#0B1F3A;
+    color:white;
+}
+
+.stat{
+    width:200px;
+}
+
+.stat h2{
+    color:#FFD700;
+    font-size:40px;
+}
+
+.stat p{
+    margin-top:10px;
+}
