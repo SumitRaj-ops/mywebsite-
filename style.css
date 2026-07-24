@@ -314,3 +314,24 @@ nav a:hover{
     background:#0B1F3A;
     color:white;
 }
+.testimonials{
+    padding:80px 8%;
+    text-align:center;
+    background:#f8f9fb;
+}
+
+.testimonials h2{
+    margin-bottom:40px;
+}
+
+.testimonials .card{
+    background:#fff;
+    border-radius:15px;
+    padding:25px;
+    box-shadow:0 8px 20px rgba(0,0,0,.12);
+}
+
+.testimonials h4{
+    margin-top:15px;
+    color:#0B1F3A;
+}
